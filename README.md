@@ -21,7 +21,7 @@
 
 
 ### Installation and Usage
-#### Clone the Repository: git clone https://github.com/your-username/flutter-translation.git
+#### Clone the Repository: git clone https://github.com/adlard07/Language-Translation-App
 #### Navigate to Project Directory: cd applicationiator
 #### Install Dependencies:flutter pub get
 #### Run the App: flutter run
@@ -39,5 +39,4 @@
 #### Dart: The programming language used for building the app logic and handling translations.
 #### API Integration: Utilizing language translation APIs, such as Google Translate API or any other reliable translation service.
 #### SQLite Database: For storing and retrieving translation history in the local database.
-Contributions
 #### Contributions to the project are welcome! If you find any bugs, have suggestions, or want to add new features, feel free to create issues or submit pull requests.

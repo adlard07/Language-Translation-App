@@ -21,10 +21,17 @@
 
 
 ### Installation and Usage
-#### Clone the Repository: git clone https://github.com/adlard07/Language-Translation-App
-#### Navigate to Project Directory: cd applicationiator
-#### Install Dependencies:flutter pub get
-#### Run the App: flutter run
+#### Clone the Repository: 
+##### git clone https://github.com/adlard07/Language-Translation-App
+
+#### Navigate to Project Directory: 
+##### cd applicationiator
+
+#### Install Dependencies:
+##### flutter pub get
+
+#### Run the App: 
+##### flutter run
 
 ### Usage:
 #### Enter the text you want to translate in the source language field.

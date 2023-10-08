@@ -31,10 +31,14 @@ The app can also read out the translated text using text-to-speech functionality
 git clone https://github.com/adlard07/Language-Translation-App
 
 ### Install Dependencies:
+```bash
 flutter pub get
+```
 
 ### Run the App: 
+```bash
 flutter run
+```
 
 ## Usage:
 Enter the text you want to translate in the source language field.
